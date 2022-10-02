@@ -1,0 +1,10 @@
+1. What is Machine Learning?
+ML is a subdomain of computer science that focuses on algorithms which help a computer learn from data without explicit programming. 
+2. AI vs ML vs DS
+AI - AI is an area of computer science, where the goal is to enable computers and machines to perform human-like tasks and simulate human behavior.
+ML - ML is a subset of AI that tries to solve a specific problem and make predictions using data. 
+Data Science (DS) - DS is a field that attempts to find patterns and draw insights from data(might use ML)
+All fields overlap.All may use ML.
+
+Types of Machine Learning - 
+1. Supervised Learning - Uses labeled inputs (meaning the input has a corresponding output label) to train models and learn outputs.
