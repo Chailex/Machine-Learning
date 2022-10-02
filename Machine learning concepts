@@ -8,4 +8,5 @@ All fields overlap.All may use ML.
 
 Types of Machine Learning - 
 1. Supervised Learning - Uses labeled inputs (meaning the input has a corresponding output label) to train models and learn outputs.
-<img src="./supervised learning example.png" width="128"/>
+
+![supervised learning example](https://user-images.githubusercontent.com/32385484/193459962-0225e1a0-e787-49e3-b950-d7c58d413e9b.png)
