@@ -8,5 +8,5 @@ All fields overlap.All may use ML.
 
 Types of Machine Learning - 
 1. Supervised Learning - Uses labeled inputs (meaning the input has a corresponding output label) to train models and learn outputs.
-
-![](supervised%20learning%20example.png)
+2. Unsupervised learning - uses unlabeled data to learn about patterns in data.
+3. Reinforcement learning - agent learning in interactive environment based on rewards and penalties
